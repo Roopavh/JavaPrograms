@@ -5,7 +5,7 @@ public class PrintlnAndPrintf {
 
         //Printing tables using printf() method
 
-        int table=12;
+        int table = 12;
         System.out.println("Printing tables using printf() method");
         System.out.printf("%d * %d = %d",table,1,table*1);System.out.println();
         System.out.printf("%d * %d = %d",table,1,table*2);System.out.println();
