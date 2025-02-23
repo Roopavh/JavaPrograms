@@ -1,4 +1,4 @@
-package Feb.DataTypes;
+package feb.dataTypes;
 
 public class Datatypes {
     public static void main(String[] args) {

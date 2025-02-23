@@ -1,4 +1,4 @@
-package Feb.PrintMethods;
+package feb.printMethods;
 
 public class PrintlnAndPrintf {
     public static void main(String[] args) {

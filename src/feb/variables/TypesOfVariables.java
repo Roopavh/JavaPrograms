@@ -1,4 +1,4 @@
-package Feb.Variables;
+package feb.variables;
 
 public class TypesOfVariables {
     public static void main(String[] args) {
