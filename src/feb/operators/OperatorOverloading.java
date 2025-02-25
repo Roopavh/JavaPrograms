@@ -9,7 +9,9 @@ public class OperatorOverloading {
         String name="Roopa";
         int age= 65;
 
-        System.out.println("Age of " +name+ " after 10 year is " +(age+10));
+        System.out.println("Age of " +name+ " after 10 year is " +age+ 10);//concatenation
+
+        System.out.println("Age of " +name+ " after 10 year is " +(age+10)); //concatenation+mathematical operation
 
 
     }
