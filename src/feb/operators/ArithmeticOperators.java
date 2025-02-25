@@ -14,7 +14,7 @@ public class ArithmeticOperators {
         double mod_result= a%b;
 
 /*
-     printf()- accepting different datatype values
+     printf()- formatting different datatype values
         %f -> floating, double
         %d -> int, byte, long, short
         %s -> String
