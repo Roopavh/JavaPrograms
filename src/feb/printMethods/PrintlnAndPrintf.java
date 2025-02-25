@@ -17,6 +17,7 @@ public class PrintlnAndPrintf {
         int table = 12;
         String name= "Roopa";
 
+
         System.out.printf("%s is writing tables of %d", name , table);System.out.println();
         System.out.printf("%d * %d = %d",table,1,table);System.out.println();
         System.out.printf("%d * %d = %d",table,2,table*2);System.out.println();
