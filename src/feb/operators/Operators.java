@@ -15,9 +15,7 @@ public class Operators {
            3. Relational operators ->   < > <= >= == !=    used to compare two values - Always result ll be true/false
            4. Logical operators -> && || !
            5. instanceof
-           6. new
-
-           */
+           6. new  */
 
     }
 }
