@@ -2,6 +2,11 @@ package feb.taking_Inputs;
 
 public class CommandLineArguments {
 
+    /*There are three ways we can use for user inputs
+    1. Command Line Arguments(Console) from program itself by configuration
+    2. Sanner class
+    3. BufferReader(Input Stream)
+*/
     //Console Arguments-> We can get inputs from user directly from program
 
     public static void main(String[] args) {
