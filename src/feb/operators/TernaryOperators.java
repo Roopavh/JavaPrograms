@@ -29,11 +29,21 @@ public class TernaryOperators {
      //    score >=60 grade D
      //    score <60 grade F
 
-        int score=100;
+        int score=80;
        // score=00;
 
         String grade=(score>=90) ? "A":(score>=80) ? "B" :(score>=70) ? "C":(score>=60)? "D":"F";
-        System.out.println(grade);
+        System.out.println("Your grade is "+ grade);
+        System.out.printf("Your grade is %s ",grade);
+        System.out.println();
 
+     // Find the largest number in three numbers
+
+        int x= 100;
+        int y= 200;
+        int z= 30;
+
+        int largest_number= (x>=y && x>=z) ? x : (y>=z)? y : z;
+        System.out.println("The largest number is " +largest_number);
     }
 }
