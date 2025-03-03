@@ -41,6 +41,7 @@ public class Task3_Triangle {
         } else {
             System.out.println("The given sides value do not form a triangle");
         }
+        scanner.close();
     }
 }
 

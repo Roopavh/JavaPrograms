@@ -27,11 +27,12 @@ public class Task2_ScoreGradeIfElseStatement {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your score to know your grade");
         int score = scanner.nextInt();
+        char grade='F';
 
         if (score < 0 || score > 100) {
             System.out.println("Invalid score! please enter score between 0-100 to know your grade");
         } else {
-            char grade;
+
             if (score >= 90 && score <= 100) {
                 grade = 'A';
             } else if (score >= 80 && score <= 89) {
