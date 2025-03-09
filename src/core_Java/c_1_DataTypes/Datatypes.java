@@ -7,7 +7,7 @@ public class Datatypes {
 /*
         There are two datatypes
             1. Primitive datatypes
-            2. Non primitive datatypes/user defined datatypes
+            2. Non-primitive datatypes/user defined datatypes
 
         Primitive datatypes
             1. Boolean
@@ -23,7 +23,7 @@ public class Datatypes {
                     a. Float
                     b. Double
 
-        Non Primitive datatyes
+        Non-Primitive datatypes
                 1. String
                 2. Class and Interface
                 3. Enum etc
