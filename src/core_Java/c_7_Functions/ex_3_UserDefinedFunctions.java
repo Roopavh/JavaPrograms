@@ -9,5 +9,9 @@ public class ex_3_UserDefinedFunctions {
             3. With parameters without return type
             4. With parameters with return type
         * */
+
+
+        boolean a=true;
+        System.out.printf("Tha value stored in a is %b",a);
     }
 }
